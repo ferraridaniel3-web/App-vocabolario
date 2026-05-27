@@ -1,27 +1,27 @@
-# App de Vocabulario (Inglés - Español)
+# App di Vocabolario (Inglese - Spagnolo)
 
-Una aplicación de escritorio interactiva diseñada para practicar y mejorar el vocabulario en inglés y español. Construida en Python utilizando una interfaz gráfica moderna.
+Un'applicazione desktop interattiva progettata per praticare e migliorare il vocabolario in inglese e spagnolo. Sviluppata in Python utilizzando una moderna interfaccia grafica.
 
-## Características
-- **Interfaz moderna:** Desarrollada con CustomTkinter para soportar un diseño limpio y adaptativo.
-- **Persistencia de datos:** Las palabras se guardan localmente utilizando la librería `pickle`.
-- **Modo bidireccional:** Permite practicar de Inglés a Español y viceversa con selección aleatoria de palabras.
+## Caratteristiche
+- **Interfaccia moderna:** sviluppata con CustomTkinter per un design pulito e adattivo.
+- **Persistenza dei dati:** le parole vengono salvate localmente utilizzando la libreria `pickle`.
+- **Modalità bidirezionale:** permette di praticare dall’inglese allo spagnolo e viceversa con selezione casuale delle parole.
 
-## Requisitos Previos
-Antes de ejecutar la aplicación, asegúrate de tener instalado:
-- Python 3.8 o superior
-- El gestor de paquetes `pip`
+## Requisiti
+Prima di eseguire l’applicazione, assicurati di avere installato:
+- Python 3.8 o superiore
+- Il gestore di pacchetti `pip`
 
-## Instalación y Ejecución
-1. **Clona este repositorio:** `git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git`
-2. **Entra al directorio del proyecto:** `cd tu-repositorio`
-3. **Instala las dependencias:** `pip install -r requirements.txt`
-4. **Inicia la aplicación:** `python main.py`
+## Installazione ed esecuzione
+1. **Clona il repository:** `git clone https://github.com/ferraridaniel3-web`
+2. **Entra nella cartella del progetto:** `cd nome-repository`
+3. **Installa le dipendenze:** `pip install -r requirements.txt`
+4. **Avvia l’applicazione:** `python main.py`
 
-## Cómo Usar la App
-1. **Agregar Palabras:** Introduce la palabra en inglés, su traducción en español y guárdala.
-2. **Practicar:** Selecciona la dirección de práctica (Inglés -> Español o viceversa).
-3. **Evaluar:** La app te mostrará una palabra aleatoria para que intentes adivinar su traducción.
+## Come usare l’app
+1. **Aggiungi parole:** inserisci la parola in inglese e la sua traduzione in spagnolo e salva.
+2. **Pratica:** seleziona la direzione (Inglese → Spagnolo o viceversa).
+3. **Test:** l’app mostrerà una parola casuale da tradurre.
 
 ---
-**Creado por Daniel Ferrari**
+**Creato da Daniel Ferrari**
